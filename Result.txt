@@ -1,5 +1,5 @@
 Group: ПИ24-2в
-Sequence number: 8
+Sequence number: 6
 Date: 2026-04-17
 -5 -> отрицательное
 0 -> ноль
